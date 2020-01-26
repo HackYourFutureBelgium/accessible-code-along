@@ -9,11 +9,7 @@
 > add one row to this table for each user story you define
 
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
-| --- | --- | --- | --- |
-| __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body`, and hide/reveal script & styles | an empty main `style.css` and an existing evaluation style |
-|  | |  |  |
-| ... | ... | ... | ... |
-| (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
+
 first-step| as a student, i can oppen the website so that i can see a search form.|creat a form.| |
 for-style | as a student to ceart pretty search.||style it.
 
