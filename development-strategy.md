@@ -14,8 +14,7 @@
 |  | |  |  |
 | ... | ... | ... | ... |
 | (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
-first-step| as a student, i can oppen the website so that i can see a search form.|creat a form.| |
-for-style | as a student to ceart pretty search.||style it.
+
 
 
 ---
